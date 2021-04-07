@@ -1,16 +1,28 @@
-### Hi there 👋
+![](images/1517654827293.jpeg)
 
-<!--
-**geekzter/geekzter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Eric, a Cloud Solution Architect with Microsoft based in Amsterdam, helping Azure customers to get the most out of the cloud. 
+I use GitHub to demonstrate what's possible with Azure and get customers going. As most of what I do is demo ([Minecraft](https://github.com/geekzter/azure-minecraft-docker) being the exception) and is therefore only created when I need it, I practice a lot of automation (Azure CLI, Azure Pipelines, Codespaces, GitHub Actions, PowerShell, Tarraform). 
 
-Here are some ideas to get you started:
+Below is a list of some of my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Automated Azure Solution Architectures
+
+
+Minecraft on Docker & Container Instance | Automated VDC
+--- | --- 
+<a href="https://github.com/geekzter/azure-minecraft-docker"><img width="320" src="https://github.com/geekzter/azure-minecraft-docker/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-vdc"><img width="320" src="https://github.com/geekzter/azure-vdc/raw/master/diagram.png"></a>
+
+
+Synapse Network | Network Isolated AKS
+--- | --- 
+<a href="https://github.com/geekzter/synapse-performance"><img width="320" src="https://github.com/geekzter/synapse-performance/raw/main/visuals/overview.png"></a> | <a href="https://github.com/geekzter/azure-aks"><img width="320" src="https://github.com/geekzter/azure-aks/raw/main/diagram.png"></a> 
+
+
+
+
+### Recent posts my Medium [blog](https://geekzter.medium.com/):
+- [Using Terraform together with Azure, Azure Pipelines & GitHub Actions](https://geekzter.medium.com/using-terraform-with-azure-azure-pipelines-github-actions-86e043bd0d9e)
+- [AWS-Azure Site-to-Site VPN with Synapse Analytics](https://geekzter.medium.com/aws-azure-site-to-site-vpn-with-synapse-analytics-d38af287b388)
+- [Session Management for Cloud Shell and Codespaces](https://geekzter.medium.com/session-management-for-cloud-shell-and-codespaces-29f474925c53)
+- [Codespaces provide a one stop shop development environment](https://geekzter.medium.com/codespaces-provide-a-one-stop-shop-development-environment-8fbad6716d53)
+
