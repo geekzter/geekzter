@@ -5,18 +5,23 @@ I use GitHub to demonstrate what's possible with Azure and get customers going. 
 
 Below is a list of some of my work.
 
-### Automated Azure Solution Architectures
+
+### Terrform Provisionable Solution Architectures on Azure
 
 
-Minecraft on Docker & Container Instance | Automated VDC
+[Minecraft on Docker & Container Instance](https://github.com/geekzter/azure-minecraft-docker) | [Automated VDC](https://github.com/geekzter/azure-vdc)
 --- | --- 
-<a href="https://github.com/geekzter/azure-minecraft-docker"><img width="320" src="https://github.com/geekzter/azure-minecraft-docker/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-vdc"><img width="320" src="https://github.com/geekzter/azure-vdc/raw/master/diagram.png"></a>
+<a href="https://github.com/geekzter/azure-minecraft-docker"><img width="360" src="https://github.com/geekzter/azure-minecraft-docker/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-vdc"><img width="360" src="https://github.com/geekzter/azure-vdc/raw/master/diagram.png"></a>
 
 
-Synapse Network | Network Isolated AKS
+[Synapse Network](https://github.com/geekzter/synapse-performance) | [Network Isolated AKS](https://github.com/geekzter/azure-aks)
 --- | --- 
-<a href="https://github.com/geekzter/synapse-performance"><img width="320" src="https://github.com/geekzter/synapse-performance/raw/main/visuals/overview.png"></a> | <a href="https://github.com/geekzter/azure-aks"><img width="320" src="https://github.com/geekzter/azure-aks/raw/main/diagram.png"></a> 
+<a href="https://github.com/geekzter/synapse-performance"><img width="360" src="https://github.com/geekzter/synapse-performance/raw/main/visuals/overview.png"></a> | <a href="https://github.com/geekzter/azure-aks"><img width="360" src="https://github.com/geekzter/azure-aks/raw/main/diagram.png"></a> 
 
+
+[Private Pipeline Agents](https://github.com/geekzter/azure-pipeline-agents) | [Development Environment on Azure](https://github.com/geekzter/azure-devenv)
+--- | --- 
+<a href="https://github.com/geekzter/azure-pipeline-agents"><img width="360" src="https://github.com/geekzter/azure-pipeline-agents/raw/master/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-devenv"><img width="360" src="https://github.com/geekzter/azure-devenv/raw/master/visuals/region.png"></a> 
 
 
 
