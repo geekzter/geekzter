@@ -16,7 +16,7 @@ Below is a list of some of my work.
 
 [Synapse Network](https://github.com/geekzter/synapse-performance) | [Network Isolated AKS](https://github.com/geekzter/azure-aks)
 --- | --- 
-<a href="https://github.com/geekzter/synapse-performance"><img width="360" src="https://github.com/geekzter/synapse-performance/raw/main/visuals/overview.png"></a> | <a href="https://github.com/geekzter/azure-aks"><img width="360" src="https://github.com/geekzter/azure-aks/raw/main/diagram.png"></a> 
+<a href="https://github.com/geekzter/synapse-performance"><img width="360" src="https://github.com/geekzter/synapse-performance/raw/main/visuals/overview.png"></a> | <a href="https://github.com/geekzter/azure-aks"><img width="360" src="https://github.com/geekzter/azure-aks/raw/main/visuals/diagram.png"></a> 
 
 
 [Private Pipeline Agents](https://github.com/geekzter/azure-pipeline-agents) | [Development Environment on Azure](https://github.com/geekzter/azure-devenv)
