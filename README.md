@@ -1,12 +1,12 @@
 ![](images/1517654827293.jpeg)
 
 I'm Eric, a Cloud Solution Architect with Microsoft based in Amsterdam, helping Azure customers to get the most out of the cloud. 
-I use GitHub to demonstrate what's possible with Azure and get customers going. As most of what I do is demo ([Minecraft](https://github.com/geekzter/azure-minecraft-docker) being the exception) and is therefore only created when I need it, I practice a lot of automation (Azure CLI, Azure Pipelines, Codespaces, GitHub Actions, PowerShell, Tarraform). 
+I use GitHub to demonstrate what's possible with Azure and get customers going. As most of what I do is demo and therefore sort-lived and only created once and when I need it, I practice a lot of automation (Azure CLI, Azure Pipelines, Codespaces, GitHub Actions, PowerShell, Terraform). 
 
 Below is a list of some of my work.
 
 
-### Terrform Provisionable Solution Architectures on Azure
+### Terraform Provisionable Solution Architectures on Azure
 
 
 [Minecraft on Docker & Container Instance](https://github.com/geekzter/azure-minecraft-docker) | [Automated VDC](https://github.com/geekzter/azure-vdc)
