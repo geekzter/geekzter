@@ -26,6 +26,7 @@ Below is a list of some of my work.
 
 
 ### Recent posts my Medium [blog](https://geekzter.medium.com/):
+- [Network Isolated AKS — Part 2: How do I get in?](https://geekzter.medium.com/network-isolated-aks-part-2-how-do-i-get-in-1c01d0c1b115)
 - [Network Isolated AKS — Part 1: Controlling network traffic](https://geekzter.medium.com/network-isolated-aks-part-1-controlling-network-traffic-2cd0e045352d)
 - [Using Terraform together with Azure, Azure Pipelines & GitHub Actions](https://geekzter.medium.com/using-terraform-with-azure-azure-pipelines-github-actions-86e043bd0d9e)
 - [AWS-Azure Site-to-Site VPN with Synapse Analytics](https://geekzter.medium.com/aws-azure-site-to-site-vpn-with-synapse-analytics-d38af287b388)
