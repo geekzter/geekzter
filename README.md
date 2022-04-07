@@ -1,7 +1,7 @@
 ![](images/1517654827293.jpeg)
 
-I'm Eric, a Cloud Solution Architect with Microsoft based in Amsterdam, helping Azure customers to get the most out of the cloud. 
-I use GitHub to demonstrate what's possible with Azure and get customers going. As most of what I do is demo and therefore sort-lived and only created once and when I need it, I practice a lot of automation (Azure CLI, Azure Pipelines, Codespaces, GitHub Actions, PowerShell, Terraform). 
+I'm Eric, a Senior Cloud Solution Architect with Microsoft based in Amsterdam, helping Azure customers to get the most out of the cloud. 
+I use GitHub to demonstrate what's possible with Azure and get customers going. As most of what I do is demo and therefore short-lived, I practice a lot of automation (Azure CLI, Azure Pipelines, Cloud-init, Codespaces, GitHub Actions, Packer, PowerShell, Terraform). 
 
 Below is a list of some of my work.
 
@@ -9,20 +9,17 @@ Below is a list of some of my work.
 ### Terraform Provisionable Solution Architectures on Azure
 
 
-[Minecraft on Docker & Container Instance](https://github.com/geekzter/azure-minecraft-docker) | [Automated VDC](https://github.com/geekzter/azure-vdc)
+[Minecraft on Docker & Container Instance](https://github.com/geekzter/azure-minecraft-docker) | [Network Isolated AKS](https://github.com/geekzter/azure-aks)
 --- | --- 
-<a href="https://github.com/geekzter/azure-minecraft-docker"><img width="360" src="https://github.com/geekzter/azure-minecraft-docker/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-vdc"><img width="360" src="https://github.com/geekzter/azure-vdc/raw/master/diagram.png"></a>
-
-
-[Synapse Network](https://github.com/geekzter/synapse-network) | [Network Isolated AKS](https://github.com/geekzter/azure-aks)
---- | --- 
-<a href="https://github.com/geekzter/synapse-network"><img width="360" src="https://github.com/geekzter/synapse-network/raw/main/visuals/overview.png"></a> | <a href="https://github.com/geekzter/azure-aks"><img width="360" src="https://github.com/geekzter/azure-aks/raw/main/visuals/diagram.png"></a> 
-
+<a href="https://github.com/geekzter/azure-minecraft-docker"><img width="360" src="https://github.com/geekzter/azure-minecraft-docker/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-aks"><img width="360" src="https://github.com/geekzter/azure-aks/raw/main/visuals/diagram.png"></a> 
 
 [Private Pipeline Agents](https://github.com/geekzter/azure-pipeline-agents) | [Development Environment on Azure](https://github.com/geekzter/azure-devenv)
 --- | --- 
 <a href="https://github.com/geekzter/azure-pipeline-agents"><img width="360" src="https://github.com/geekzter/azure-pipeline-agents/raw/master/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-devenv"><img width="360" src="https://github.com/geekzter/azure-devenv/raw/master/visuals/region.png"></a> 
 
+[Synapse Network](https://github.com/geekzter/synapse-network) | [Automated VDC](https://github.com/geekzter/azure-vdc)
+--- | --- 
+<a href="https://github.com/geekzter/synapse-network"><img width="360" src="https://github.com/geekzter/synapse-network/raw/main/visuals/overview.png"></a> |  <a href="https://github.com/geekzter/azure-vdc"><img width="360" src="https://github.com/geekzter/azure-vdc/raw/master/diagram.png"></a>
 
 
 ### Recent posts my Medium [blog](https://geekzter.medium.com/):
