@@ -1,6 +1,6 @@
 ![](images/1517654827293.jpeg)
 
-I'm Eric, a Product Manager in the Developer Devision and a former Cloud Solution Architect (CSA) in Microsoft, based in Amsterdam. 
+I'm Eric, a Product Manager in the Developer Division at Microsoft and a former Cloud Solution Architect (CSA), based in Amsterdam. 
 In my CSA role I used GitHub to demonstrate what's possible with Azure and get customers going. Below is a list of some of my work.
 
 
