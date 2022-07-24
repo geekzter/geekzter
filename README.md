@@ -6,14 +6,13 @@ In my CSA role I used GitHub to demonstrate what's possible with Azure and get c
 
 ### Terraform Provisionable Solution Architectures on Azure
 
-
-[Private Pipeline Agents](https://github.com/geekzter/azure-pipeline-agents) | [Development Environment on Azure](https://github.com/geekzter/azure-devenv)
+[Private Pipeline Agents](https://github.com/geekzter/azure-pipeline-agents) | [Network Isolated AKS](https://github.com/geekzter/azure-aks)
 --- | --- 
-<a href="https://github.com/geekzter/azure-pipeline-agents"><img width="360" src="https://github.com/geekzter/azure-pipeline-agents/raw/master/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-devenv"><img width="360" src="https://github.com/geekzter/azure-devenv/raw/master/visuals/region.png"></a> 
+<a href="https://github.com/geekzter/azure-pipeline-agents"><img width="360" src="https://github.com/geekzter/azure-pipeline-agents/raw/master/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-aks"><img width="360" src="https://github.com/geekzter/azure-aks/raw/main/visuals/diagram.png"></a> 
 
-[Minecraft on Docker & Container Instance](https://github.com/geekzter/azure-minecraft-docker) | [Network Isolated AKS](https://github.com/geekzter/azure-aks)
+[Minecraft on Docker & Container Instance](https://github.com/geekzter/azure-minecraft-docker) | [Development Environment on Azure](https://github.com/geekzter/azure-devenv)
 --- | --- 
-<a href="https://github.com/geekzter/azure-minecraft-docker"><img width="360" src="https://github.com/geekzter/azure-minecraft-docker/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-aks"><img width="360" src="https://github.com/geekzter/azure-aks/raw/main/visuals/diagram.png"></a> 
+<a href="https://github.com/geekzter/azure-minecraft-docker"><img width="360" src="https://github.com/geekzter/azure-minecraft-docker/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-devenv"><img width="360" src="https://github.com/geekzter/azure-devenv/raw/master/visuals/region.png"></a> 
 
 [Synapse Network](https://github.com/geekzter/synapse-network) | [Automated VDC](https://github.com/geekzter/azure-vdc)
 --- | --- 
