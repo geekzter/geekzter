@@ -14,11 +14,6 @@ In my CSA role I used GitHub to demonstrate what's possible with Azure and get c
 --- | --- 
 <a href="https://github.com/geekzter/azure-minecraft-docker"><img width="360" src="https://github.com/geekzter/azure-minecraft-docker/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-devenv"><img width="360" src="https://github.com/geekzter/azure-devenv/raw/master/visuals/region.png"></a> 
 
-[Network Isolated AKS](https://github.com/geekzter/azure-aks) | [Automated VDC](https://github.com/geekzter/azure-vdc)
---- | --- 
-<a href="https://github.com/geekzter/azure-aks"><img width="360" src="https://github.com/geekzter/azure-aks/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-vdc"><img width="360" src="https://github.com/geekzter/azure-vdc/raw/master/diagram.png"></a> 
-
-
 ### Latest posts my Medium [blog](https://geekzter.medium.com/):
 - [Network Isolated AKS — Part 2: How do I get in?](https://geekzter.medium.com/network-isolated-aks-part-2-how-do-i-get-in-1c01d0c1b115)
 - [Network Isolated AKS — Part 1: Controlling network traffic](https://geekzter.medium.com/network-isolated-aks-part-1-controlling-network-traffic-2cd0e045352d)
