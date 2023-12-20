@@ -10,9 +10,9 @@ In my CSA role I used GitHub to demonstrate what's possible with Azure and get c
 --- | --- 
 <a href="https://github.com/geekzter/azure-pipeline-agents"><img width="360" src="https://github.com/geekzter/azure-pipeline-agents/raw/master/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-pipelines-container-agent"><img width="360" src="https://github.com/geekzter/azure-pipelines-container-agent/blob/main/visuals/overview.png?raw=true"></a> 
 
-[Minecraft on Docker & Container Instance](https://github.com/geekzter/azure-minecraft-docker) | [Development Environment on Azure](https://github.com/geekzter/azure-devenv)
+[Minecraft on Docker & Container Instance](https://github.com/geekzter/azure-minecraft-docker) | [Sourcing Azure Pipeline variables from a private Azure Key Vault](https://github.com/geekzter/azure-pipeline-agent-keyvault-access)
 --- | --- 
-<a href="https://github.com/geekzter/azure-minecraft-docker"><img width="360" src="https://github.com/geekzter/azure-minecraft-docker/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-devenv"><img width="360" src="https://github.com/geekzter/azure-devenv/raw/master/visuals/region.png"></a> 
+<a href="https://github.com/geekzter/azure-minecraft-docker"><img width="360" src="https://github.com/geekzter/azure-minecraft-docker/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-pipeline-agent-keyvault-access"><img width="360" src="https://raw.githubusercontent.com/geekzter/azure-pipeline-agent-keyvault-access/main/visuals/overview.png"></a> 
 
 ### Previous posts my Medium [blog](https://geekzter.medium.com/):
 - [Network Isolated AKS — Part 2: How do I get in?](https://geekzter.medium.com/network-isolated-aks-part-2-how-do-i-get-in-1c01d0c1b115)
