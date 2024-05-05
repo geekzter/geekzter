@@ -1,18 +1,24 @@
 ![](images/1517654827293.jpeg)
 
-I'm Eric, a Product Manager in the Developer Division at Microsoft and a former Cloud Solution Architect (CSA), based in Amsterdam. 
-In my CSA role I used GitHub to demonstrate what's possible with Azure and get customers going. Below is a list of some of my work.
+I'm Eric, a Product Manager for Azure Pipelines in the Developer Division at Microsoft and a former Cloud Solution Architect (CSA), based in Amsterdam. 
 
-
-### Terraform Provisionable Solution Architectures on Azure
+## Terraform provisionable Azure DevOps samples
 
 [Private Pipeline Agents](https://github.com/geekzter/azure-pipeline-agents) | [Container Pipeline Agents](https://github.com/geekzter/azure-pipelines-container-agent)
 --- | --- 
 <a href="https://github.com/geekzter/azure-pipeline-agents"><img width="360" src="https://github.com/geekzter/azure-pipeline-agents/raw/master/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-pipelines-container-agent"><img width="360" src="https://github.com/geekzter/azure-pipelines-container-agent/blob/main/visuals/overview.png?raw=true"></a> 
 
-[Minecraft on Docker & Container Instance](https://github.com/geekzter/azure-minecraft-docker) | [Sourcing Azure Pipeline variables from a private Azure Key Vault](https://github.com/geekzter/azure-pipeline-agent-keyvault-access)
+[Terraform-managed Azure Service Connection](https://github.com/geekzter/azure-service-connection) | [Sourcing Azure Pipeline variables from a private Azure Key Vault](https://github.com/geekzter/azure-pipeline-agent-keyvault-access)
 --- | --- 
-<a href="https://github.com/geekzter/azure-minecraft-docker"><img width="360" src="https://github.com/geekzter/azure-minecraft-docker/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-pipeline-agent-keyvault-access"><img width="360" src="https://raw.githubusercontent.com/geekzter/azure-pipeline-agent-keyvault-access/main/visuals/overview.png"></a> 
+<a href="https://github.com/geekzter/azure-service-connection"><img width="360" src="https://github.com/geekzter/azure-service-connection/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-pipeline-agent-keyvault-access"><img width="360" src="https://raw.githubusercontent.com/geekzter/azure-pipeline-agent-keyvault-access/main/visuals/overview.png"></a> 
+
+## Fun 
+
+#### [Minecraft on Docker & Container Instance](https://github.com/geekzter/azure-minecraft-docker)
+
+Get your kid(s) their own serverless 'Minecraft Server'.
+
+<a href="https://github.com/geekzter/azure-minecraft-docker"><img width="360" src="https://github.com/geekzter/azure-minecraft-docker/raw/main/visuals/diagram.png"></a>
 
 ### Previous posts my Medium [blog](https://geekzter.medium.com/):
 - [Network Isolated AKS — Part 2: How do I get in?](https://geekzter.medium.com/network-isolated-aks-part-2-how-do-i-get-in-1c01d0c1b115)
