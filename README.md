@@ -4,13 +4,14 @@ I'm Eric, a Product Manager for Azure Pipelines in the Developer Division at Mic
 
 ## Terraform provisionable Azure DevOps samples
 
+[Terraform-managed Azure Service Connection](https://github.com/geekzter/azure-service-connection) | [Sourcing Azure Pipeline variables from a private Azure Key Vault](https://github.com/geekzter/azure-pipeline-agent-keyvault-access)
+--- | --- 
+<a href="https://github.com/geekzter/azure-service-connection"><img width="360" src="https://github.com/geekzter/azure-service-connection/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-pipeline-agent-keyvault-access"><img width="360" src="https://raw.githubusercontent.com/geekzter/azure-pipeline-agent-keyvault-access/main/visuals/overview.png"></a> 
+
 [Private Pipeline Agents](https://github.com/geekzter/azure-pipeline-agents) | [Container Pipeline Agents](https://github.com/geekzter/azure-pipelines-container-agent)
 --- | --- 
 <a href="https://github.com/geekzter/azure-pipeline-agents"><img width="360" src="https://github.com/geekzter/azure-pipeline-agents/raw/master/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-pipelines-container-agent"><img width="360" src="https://github.com/geekzter/azure-pipelines-container-agent/blob/main/visuals/overview.png?raw=true"></a> 
 
-[Terraform-managed Azure Service Connection](https://github.com/geekzter/azure-service-connection) | [Sourcing Azure Pipeline variables from a private Azure Key Vault](https://github.com/geekzter/azure-pipeline-agent-keyvault-access)
---- | --- 
-<a href="https://github.com/geekzter/azure-service-connection"><img width="360" src="https://github.com/geekzter/azure-service-connection/raw/main/visuals/diagram.png"></a> | <a href="https://github.com/geekzter/azure-pipeline-agent-keyvault-access"><img width="360" src="https://raw.githubusercontent.com/geekzter/azure-pipeline-agent-keyvault-access/main/visuals/overview.png"></a> 
 
 ## Fun 
 
